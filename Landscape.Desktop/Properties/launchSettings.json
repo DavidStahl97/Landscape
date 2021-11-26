@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Landscape.Desktop (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Landscape.Desktop (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
